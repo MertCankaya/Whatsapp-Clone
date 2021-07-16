@@ -2,7 +2,7 @@
 In this application we can create a chat room and message each other using our google accounts.
 
 ## Whatsapp Clone Demo Link
-<a href="https://whatsapp-clone-1d844.web.app/">click me</a>
+<a href="https://whatsapp-clone-1d844.web.app/">click me</a> for demo.
 
 
 ## Topics
